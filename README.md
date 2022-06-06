@@ -19,7 +19,7 @@ Space_war
 
 <img src ="скриншет проигрышь.png" width="500" height="400">
 
-# Автор
+# Автор - https://github.com/eger1273
 
 
 p
