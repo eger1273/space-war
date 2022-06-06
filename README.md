@@ -7,4 +7,4 @@ Space_war
 
 В этом проекте мы уничтожаем при шельцев.
 
-<img src ="скриншет игра.png" width="200" height="100"
+<img src ="скриншет игра.png" width="200" height="100">
